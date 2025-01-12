@@ -26,8 +26,8 @@ Welcome to **Tic Tac Toe**, the classic game of Xs and Os! Play with a friend (o
 HTML: For the game structure.
 Tailwind CSS and Separate CSS: For styling (and looking cool).
 JavaScript: The brain behind the game! 💡
-##👾 Contributing
+## 👾 Contributing
 Fork the repo, improve it, and send a pull request! Make it prettier, add animations, or even challenge AI players! 😎
 
-##🥳 License
+## 🥳 License
 MIT License. Have fun and play responsibly! 😆
